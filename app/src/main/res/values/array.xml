@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="you_string">
+        <item>Có kiến thức thì không nghi ngờ, có lòng nhân thì không ưu tư, có dũng cảm thì không sợ hãi</item>
+        <item>Nếu là đá, hãy là nam châm. Nếu là cây, hãy là cây trinh nữ. Nếu là người, xin hãy dâng hiến cho tình yêu</item>
+        <item>Làm việc đừng mong dễ thành công. Vì nếu dễ thành công thì bản thân thường kiêu ngạo</item>
+        <item>Khi bạn khao khát một điều gì đó, cả vũ trụ sẽ hợp lực giúp bạn đạt điều đó</item>
+        <item>Lòng tốt của con người có thể như một ngọn lửa cháy âm ỉ chứ không bao giờ dập tắt đi.</item>
+
+    </string-array>
+    <string-array name="you_number">
+        <item>1</item>
+        <item>2</item>
+        <item>3</item>
+        <item>4</item>
+        <item>5</item>
+        <item>6</item>
+        <item>7</item>
+        <item>8</item>
+        <item>9</item>
+        <item>10</item>
+        <item>11</item>
+        <item>12</item>
+        <item>13</item>
+        <item>14</item>
+        <item>15</item>
+        <item>Không có số phát sinh</item>
+    </string-array>
+    <color name="color">
+        <item>#CC1616</item>
+        <item>#4DE7E4</item>
+        <item>#C8E7BC</item>
+        <item>#FF3700B3</item>
+        <item>#F581C7</item>
+        <item>#BA5137</item>
+    </color>
+</resources>

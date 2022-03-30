@@ -1,0 +1,65 @@
+<resources>
+    <string name="app_name">Baithuchanh2</string>
+
+    <string name="qualation">Show</string>
+    <string name="we">Welcome!</string>
+
+    <string name="user">Username</string>
+    <string name="pass">Password</string>
+    <string name="c" translatable="false">C</string>
+    <string name="login">LOGIN</string>
+    <string name="signup">Dont have account? Sign up</string>
+    <string name="turn" translatable="false">TURN ON</string>
+    <string name="number1" translatable="false">Number One</string>
+    <string name="number2" translatable="false">Number One</string>
+    <string name="cong" translatable="false">+</string>
+    <string name="tru" translatable="false">-</string>
+    <string name="nhan" translatable="false">*</string>
+    <string name="chia" translatable="false">/</string>
+    <string name="email" translatable="false">Email</string>
+    <string name="login2" translatable="false">Login</string>
+    <string name="cancel" translatable="false">Cancel</string>
+    <string name="Register" translatable="false">Register new Account</string>
+    <string name="newgmae" translatable="false">New Game!</string>
+    <string name="mot" translatable="false">1</string>
+    <string name="hai" translatable="false">2</string>
+    <string name="ba" translatable="false">3</string>
+    <string name="bon" translatable="false">4</string>
+    <string name="nam" translatable="false">5</string>
+    <string name="sau" translatable="false">6</string>
+    <string name="bay" translatable="false">7</string>
+    <string name="tam" translatable="false">8</string>
+    <string name="chin" translatable="false">9</string>
+    <string name="muoi" translatable="false">10</string>
+    <string name="muoi_mot" translatable="false">11</string>
+    <string name="muoi_hai" translatable="false">12</string>
+    <string name="muoi_ba" translatable="false">13</string>
+    <string name="muoi_bon" translatable="false">14</string>
+    <string name="muoi_nam" translatable="false">15</string>
+    <string name="bmi" translatable="false">CHỈ SỐ BMI</string>
+    <string name="cn" translatable="false">Cân nặng(kg):</string>
+    <string name="chon" translatable="false">Chọn</string>
+    <string name="cc" translatable="false">Chiều cao</string>
+    <string name="cm" translatable="false">cm</string>
+    <string name="dm" translatable="false">dm</string>
+    <string name="tinh" translatable="false">Tính BMI</string>
+    <string name="thoat" translatable="false">Thoát</string>
+    <string name="kq" translatable="false">Kết quả</string>
+    <string name="So" translatable="false">Số</string>
+    <string name="chiso" translatable="false">Chỉ số cơ thể BMI</string>
+    <string name="ns" translatable="false">Nhập số</string>
+    <string name="ok" translatable="false">OK</string>
+    <string name="exit" translatable="false">Exit</string>
+    <string name="khong" translatable="false">0</string>
+
+    <string name="color">Color mode</string>
+    <string name="lg1">Logo1</string>
+    <string name="lg2">Logo2</string>
+    <string name="lg3">Logo3</string>
+    <string name="set">Set</string>
+    <string name="text">Text Size:</string>
+    <string name="info">Show Info</string>
+    <string name="close">Close</string>
+    <string name="en">Enter new text</string>
+
+</resources>

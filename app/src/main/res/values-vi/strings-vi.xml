@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Baithuchanh2</string>
+
+    <string name="qualation">Show</string>
+    <string name="we">Xin chào!</string>
+
+    <string name="user">Tên đăng nhập</string>
+    <string name="pass">Mật Khẩu</string>
+
+    <string name="login">ĐĂNG NHẬP</string>
+    <string name="signup">Bạn chưa có tài khoản? Đăng ký</string>
+
+
+    <string name ="color" >Màu nền</string>
+    <string name="lg1">Logo1</string>
+    <string name="lg2">Logo2</string>
+    <string name="lg3">Logo3</string>
+    <string name="set">Gửi</string>
+    <string name="text">Kích thước:</string>
+    <string name="info">Thông tin</string>
+    <string name="close">Đóng</string>
+    <string name="en">Text mới</string>
+
+</resources>

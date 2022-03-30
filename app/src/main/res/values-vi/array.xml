@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="your_string">
+       <item>Hello ba con co bac</item>
+        <item>Bai hat buon qua</item>
+        <item>Co don danh cho ai</item>
+    </string-array>
+</resources>
